@@ -91,7 +91,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           textAlignVertical: TextAlignVertical.center,
                           decoration: InputDecoration(
                             border: InputBorder.none,
-                            hintText: 'Your Height',
+                            hintText: 'Your Weight',
                             hintStyle: TextStyle(color: Colors.grey),
                             isDense: true,
                             contentPadding: EdgeInsets.zero,
@@ -185,7 +185,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           textAlignVertical: TextAlignVertical.center,
                           decoration: InputDecoration(
                             border: InputBorder.none,
-                            hintText: 'Goal Height',
+                            hintText: 'Goal Weight',
                             hintStyle: TextStyle(color: Colors.grey),
                             isDense: true,
                             contentPadding: EdgeInsets.zero,
